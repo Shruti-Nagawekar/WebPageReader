@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Read Everything",
+    "name": "WebpageReader",
     "version": "1.0",
     "description": "A Chrome extension to read all text on a webpage.",
     "permissions": [
