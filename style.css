@@ -1,23 +1,36 @@
 body {
-    font-family: Arial, sans-serif;
-    width: 200px;
-    padding: 10px;
-  }
-  
-  h1 {
-    font-size: 16px;
-    margin-bottom: 10px;
-  }
-  
-  button {
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px;
-    border: none;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #45a049;
-  }
-  
+  font-family: Arial, sans-serif;
+  width: 200px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+label {
+  font-size: 14px;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+span {
+  display: block;
+  margin-top: 5px;
+  font-size: 14px;
+}
